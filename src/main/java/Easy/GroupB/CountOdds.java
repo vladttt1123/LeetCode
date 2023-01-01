@@ -20,7 +20,7 @@ public class CountOdds {
         }
         else{
             int result =  (high - low) / 2 + 1;
-            return result;
+            return result;//
         }
     }
 }
