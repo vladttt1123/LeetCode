@@ -3,7 +3,7 @@ package Easy.GroupB;
 public class ReverseVowelsOfAString {
 
 
-    public boolean isVowel(char c) {
+    public boolean isVowel(char c) {//
         return c == 'a' || c == 'i' || c == 'e' || c == 'o' || c == 'u'
                 || c == 'A' || c == 'I' || c == 'E' || c == 'O' || c == 'U';
     }
