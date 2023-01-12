@@ -13,8 +13,8 @@ public class MissingNumber {
         }
 
         int xorAll = 0;
-        for(int j : nums){
-            xorAll^=j;
+        for(int i = 0; i <= nums.length; i++){
+            xorAll^=i;
         }
         return xorAll ^ xorArr;
 
