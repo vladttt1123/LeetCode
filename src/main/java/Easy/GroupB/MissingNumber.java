@@ -1,6 +1,6 @@
 package Easy.GroupB;
 
-public class MostFrequentEvenElement {
+public class MissingNumber {
     //BITWISE Implmentation
     // we will use XOR , because
     // A ^ A = 0;
